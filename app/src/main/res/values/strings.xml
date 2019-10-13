@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Labor2</string>
+    <string name="firstNameTxt">First Name</string>
+    <string name="lastNameTxt">Last Name</string>
+    <string name="numOfCallsFromRegPage">Number of calls from Register page</string>
+    <string name="numOfCallsFromProfile">Number of calls from Profile</string>
+    <string name="signUpButtonTxt">SIGN UP</string>
+    <string name="registerButtonTxt">REGISTER</string>
+</resources>
